@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-using-Python
 
-This project involves conducting EDA on a dataset to uncover trends and patterns in the data given. 
+This project involves conducting EDA on a dataset to uncover trends and patterns in the data given. The analysis covers univariate, bivariate and multivariate analysis to uncover different relationships among the data.
 
 Cuisine:
 Below are the few questions which can be answered from the analysis:
